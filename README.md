@@ -1,0 +1,1 @@
+creating basic folder structure for JAVA
